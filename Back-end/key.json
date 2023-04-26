@@ -1,0 +1,26 @@
+{
+  "type": "service_account",
+  "project_id": "rest-api-lab-5942e",
+  "private_key_id": "0e194f33a060f572958c2bd4555d84230acdb5ef",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCmuYIGOA5TCaA/\nl5Zf1Kl/vmfIPkoKScbp6a4zOtDA0Mf/wJ3EkujUKzHP29+NFjX132mnNvlgiPC5\nvVMbf0olG8D+uBsbajzEkDH68O51ZZwNZu9698VoVfPx33NOS67Y04j7qduAw0bs\nL9vSUBdxORrNT/FyGPzF2UH+48Tdummns70+uMBUFGpQiHTB5U0lBu7ylNCpWcEY\npAoT3SGLUkrvB+CCrWCtwTVM8Rfx7j4IvxpHCvXAhcwClhsj8C4d8DJmd5H4Xurc\n2VhLjg5VEjbdvgzSNIkiOc+NsfwG9KBOB2sLn3Z3tHyGQV1MukR1bJ6RKcyFyU+9\nh9bqKSWLAgMBAAECggEAA5uXuDRl/vRXiY4UB3PYd8wHfo+hK4goK+9OFowLG2Oz\n3ZFt+I8onFATo7NW1ZHpo1iXy9yxLckY0x7JLxr54EQG+5wWnhPA8oyflZYOxZno\nHr7KUjINYrIaysedPPr/SBrfvSO8/RQnXedf4t+vz4KUVWVe91Xva6/wBn4oSEH+\nSM+aPXUu3pAqGzPJ7bEHBSZEA8BvSVKAfjzxjPWGVWNNI0GTPwX+sif+l4T7DNZN\nCGHo5ug2c35Le+kRiNtLjPiUqHG6mUiX2BPyKwVcfRw+g4T7vDFEpDcjDqEvN8ja\njrTBxksXoJCAlWCNuU2Lm9AaV1WQly3LoEsxqiyCHQKBgQDd70JeVHkHmOfgaqvR\nxGNgs8WIarW+jhglvaDc4kkV7BZ0tiAMRrF+VBUofk5KfFg/+E6MU/nVK3PIPINK\nxWkYxdcmdPu2sWobIV0KMChOwDsf17gzKkXA01X68Zz2l3GQtBy0KBkZwUneuC/v\nlODdpn8qhbPV0JLkpiU/5xYFlwKBgQDAUNFV0XjbC2/PXCXm7XMc/8AXnNH5/c92\n8D/WaepWu16kNZZ6BPGOJJiwrpTcO/fqQ8bCVPIDmkLJs4BGpmc9QAFn8O6/FaQg\n33nalWPZ6V6LOjjj0sY6CRIdCcqd02JED2ANb7+o6/IgTw0bq4aPsL5Ppv3BJCjT\nHKcK5XBmLQKBgE1AJv3msWovkybOepg9n8ndSXi+jByUIVuhsgiwy3fSAc8GRgl/\n4fBzHBpIPMA4oA9EQzMdV+0XfunIBntUU8zHsKg2OBfTkXd4GYaeVKl0yB/BWuCU\naktARMFgsJ41ANa5mvQqsPICEdBwlF70l4EPn1wRxhM60qa8HmMr8MJpAoGBAIsC\nH73jUnMqOiBtX+wimEFOz3+B1/jWL/6tu8b0+fDFMKyLG4CJUDzJUSDsoCbspc9M\nPD+9fM2D1GDNAZyPrTIFsL571WaDcwZb4k1QDEO3vqHubK6obKYIZnJc4HriDzZY\n0roDm0qzeWlHGpd0jSgRvg3/C45u359xJ4DlxS/lAoGBALAt4oarE8BvGySJvy3k\nUkEzYR4pr3IbJ/c12nLAE8usN5pK32nZvf4QnLcG//y5vWhrdWC0pzuHSTJ1EYZl\nfX5Do/ixsQ9DthkjbtapAcReohLxRGyYFeDnaxTRGW4MkZg5JzkzV+mAHmgI6e4e\nL8kpMsZ77/3+WKyN43JYmUAd\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-h35u9@rest-api-lab-5942e.iam.gserviceaccount.com",
+  "client_id": "117069936743396337638",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-h35u9%40rest-api-lab-5942e.iam.gserviceaccount.com",
+  "hosting": {
+    "public": "public",
+    "headers": [
+      {
+        "source": "**/*",
+        "headers": [
+          {
+            "key": "Access-Control-Allow-Origin",
+            "value": "*"
+          }
+        ]
+      }
+    ]
+  }
+}
